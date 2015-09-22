@@ -1,0 +1,63 @@
+
+body{
+	background-image: url('WB2.jpg');
+	background-attachment: fixed;
+}
+
+a:hover{
+	text-decoration: none;
+	color: red;
+}
+
+hr{
+	background-color: blue;
+}
+
+h1{
+  color: #F010D2;
+  text-align: center;
+  font-family: Garamond;
+  font-size: 50px;
+  color: red;
+}
+
+ul{
+  margin: auto;
+  text-align: center;
+
+}
+
+li{
+	text-decoration: none;
+	display: inline-block;
+	padding-left: 100px;
+	padding-right: 100px;
+	font-weight: bold;
+	font-size: 30px;
+
+
+}
+
+table{
+	margin: auto;
+}
+
+tbody{
+	margin: auto;
+
+}
+
+img{
+	height: 400px;
+	width: 400px;
+
+}
+
+td{
+	margin: auto;
+	border: 5px solid pink;
+}
+
+audio{
+	margin: auto;
+}
